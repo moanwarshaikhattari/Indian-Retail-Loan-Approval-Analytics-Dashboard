@@ -92,11 +92,11 @@ The primary objectives of this project are:
 
 ### Executive Summary
 
-![Executive Summary](Images/Executive_Summary_Dashboard.png)
+![Executive Summary](Screenshots/Executive_Summary_Dashboard.png)
 
 ### Customer Behaviour Analysis
 
-![Customer Behaviour Analysis](Images/Customer_Behaviour_Analysis.png)
+![Customer Behaviour Analysis](Screenshots/Customer_Behaviour_Analysis.png)
 
 ---
 
