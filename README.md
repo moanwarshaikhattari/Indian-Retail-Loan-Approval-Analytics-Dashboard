@@ -88,15 +88,15 @@ The primary objectives of this project are:
 
 ---
 
-## 📷 Dashboard Screenshots
+# 📷 Dashboard Screenshots
 
-### Executive Summary
+## Executive Summary
 
-![Executive Summary](Screenshots/Executive_Summary_Dashboard.png)
+![Executive Summary](Executive_Summary_Dashboard.png)
 
-### Customer Behaviour Analysis
+## Customer Behaviour Analysis
 
-![Customer Behaviour Analysis](Screenshots/Customer_Behaviour_Analysis.png)
+![Customer Behaviour Analysis](Customer_Behaviour_Analysis.png)
 
 ---
 
