@@ -23,6 +23,7 @@ The primary objectives of this project are:
 ## 🛠 Tools & Technologies
 
 - **Power BI**
+- **Sql**
 - **Microsoft Excel**
 - **DAX (Data Analysis Expressions)**
 - **Data Cleaning & Transformation**
